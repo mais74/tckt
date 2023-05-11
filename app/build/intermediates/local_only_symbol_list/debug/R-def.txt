@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color pink
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id button
+id button2
+id family
+id fathername
+id name
+id price
+id textView
+id textView2
+id textView3
+layout activity_main
+layout activity_second
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Wasd
+style Theme.Wasd
+xml backup_rules
+xml data_extraction_rules
